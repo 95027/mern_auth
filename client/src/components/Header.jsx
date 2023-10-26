@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Header = () => {
   return (
-    <div className='bg-blue-500 text-white'>
+    <div className='bg-blue-900 text-white'>
         <div className='flex justify-between items-center max-w-6xl mx-auto p-3'>
             <Link to="/">
                 <h1 className='font-medium'>MERN Auth</h1>
